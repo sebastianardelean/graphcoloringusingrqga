@@ -7,7 +7,7 @@ authors:
 - family-names: "Udrescu"
   given-names: "Mihai"
   orchid: "https://orcid.org/0000-0002-7607-9240"
-title: "graphcoloringusingrqga"
+title: "Graph Coloring using Reduced Quantum Genetic Algorithm"
 version: 1.0.0
 date-released: 2021-10-19
 url: "https://github.com/sebastianardelean/graphcoloringusingrqga"
